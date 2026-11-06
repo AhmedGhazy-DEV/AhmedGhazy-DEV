@@ -35,7 +35,6 @@
 |:-----|:------|:-----|
 | **Sep 2026 – now** | **[Yousty.ch](https://www.yousty.ch)** · DevOps Engineer *(via Shebang Labs)* | DevOps engineering for Yousty's platform — deployment pipelines, infrastructure and day-to-day operations. |
 | **Oct 2025 – now** | **[Shebang Labs](https://shebanglabs.io)** · DevOps & Full-Stack Engineer | Infrastructure, CI/CD and full-stack delivery for client products. Worked on **Xplain AI** — an AI learning platform — building backend microservices and Agentic AI workflows. |
-| **May 2025 – Oct 2025** | **Mokhtareon** · Python & Robotics Tutor | Taught Python programming and robotics / embedded systems; mentored 500+ students. |
 
 ---
 
