@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedGhazy-DEV&bg_color=0D1117&color=CBD5E1&line=22D3EE&point=F8FAFC&area=true&area_color=22D3EE&hide_border=true" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/22D3EE/AhmedGhazy-DEV" alt="Contribution graph" width="100%" />
 </p>
 
 ---
