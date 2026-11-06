@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+  <defs><linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#34D399"/><stop offset="1" stop-color="#818CF8"/></linearGradient></defs>
+  <rect width="1200" height="120" rx="16" fill="#0B1220" stroke="#1E293B"/>
+  <rect x="0" y="116" width="1200" height="4" fill="url(#a)"/>
+  <text x="600" y="58" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="28" font-weight="700" fill="#F8FAFC">Let's build something.</text>
+  <text x="600" y="90" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="18" fill="url(#a)">ahmedmedhatadel059@gmail.com</text>
+</svg>

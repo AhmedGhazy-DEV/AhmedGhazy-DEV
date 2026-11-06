@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130">
+  <style>.n{font:700 30px 'JetBrains Mono',Consolas,monospace;fill:#F8FAFC}.l{font:14px 'JetBrains Mono',Consolas,monospace;fill:#94A3B8;letter-spacing:1px}</style>
+  <g>
+    <rect x="0"   y="5" width="285" height="120" rx="12" fill="#0B1220" stroke="#1E293B"/>
+    <rect x="305" y="5" width="285" height="120" rx="12" fill="#0B1220" stroke="#1E293B"/>
+    <rect x="610" y="5" width="285" height="120" rx="12" fill="#0B1220" stroke="#1E293B"/>
+    <rect x="915" y="5" width="285" height="120" rx="12" fill="#0B1220" stroke="#1E293B"/>
+    <rect x="0"   y="5" width="4" height="120" fill="#34D399"/>
+    <rect x="305" y="5" width="4" height="120" fill="#34D399"/>
+    <rect x="610" y="5" width="4" height="120" fill="#818CF8"/>
+    <rect x="915" y="5" width="4" height="120" fill="#818CF8"/>
+  </g>
+  <text x="30"  y="62" class="n">500+</text><text x="30"  y="95" class="l">STUDENTS MENTORED</text>
+  <text x="335" y="62" class="n">FastAPI</text>  <text x="335" y="95" class="l">CORE BACKEND STACK</text>
+  <text x="640" y="62" class="n">Multi-agent</text><text x="640" y="95" class="l">AI SYSTEMS</text>
+  <text x="945" y="62" class="n">Xplain AI</text><text x="945" y="95" class="l">CURRENTLY BUILDING AT</text>
+</svg>
